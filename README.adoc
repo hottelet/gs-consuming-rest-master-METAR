@@ -15,7 +15,7 @@ This guide walks you through the process of creating an application that consume
 == What you'll build
 
 You'll build an application that uses Spring's `RestTemplate` to retrieve METAR with a Spring Boot  
-https://api.laminardata.aero/v1/aerodromes/{METARStationId}/metar?user_key=a17a9a1e9c484c0aa4ac45c2dbf9f686
+https://api.laminardata.aero/v1/aerodromes/{METARStationId}/metar?user_key={SessionId}
 
 
 
